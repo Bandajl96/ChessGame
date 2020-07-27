@@ -1,2 +1,2 @@
-# ChessGame
+# Chess
 Created with CodeSandbox
